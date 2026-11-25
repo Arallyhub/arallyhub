@@ -1,16 +1,13 @@
-## Hi there 👋
+### Arafat Alalade
+**Technical & Research Writer | AI Model Evaluation & Quality Assurance | Web3 & Protocol Analyst**
 
-<!--
-**Arallyhub/arallyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn complex AI, protocol, and market topics into clear, structured documentation, research teardowns, and evaluation datasets.
 
-Here are some ideas to get you started:
+#### Pinned Work & Samples
+- **[LLM Evaluation Rubrics & Red-Teaming](https://github.com/Arallyhub/llm-eval-rubrics-and-redteaming)** — Side-by-side RLHF preference rankings, multi-constraint prompt audits, fact-checking matrices, and golden rewrites.
+- **[Technical Research Portfolio](https://github.com/Arallyhub/technical-research-portfolio)** — Long-form protocol analyses, whitepaper teardowns, and operational guides.
+- **[API Docs & Integration Guide](https://github.com/Arallyhub/api-docs-and-integration-guide)** — Developer quickstart documentation, endpoint references, and working request/response examples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect
+- **LinkedIn:** [Arafat Alalade](https://www.linkedin.com/in/arafat-alalade)
+- **X:** [@arajeanxo](https://x.com/arajeanxo)
